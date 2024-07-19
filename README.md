@@ -1,2 +1,3 @@
 # hello-world
-this is my first git repository
+This is my first Git repository
+Author- Prayash Pradhan
